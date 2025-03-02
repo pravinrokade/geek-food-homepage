@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geek-food-homepage/static/css/main.97f9b86e.css",
+    "main.js": "/geek-food-homepage/static/js/main.03879472.js",
+    "static/js/453.2cc0213d.chunk.js": "/geek-food-homepage/static/js/453.2cc0213d.chunk.js",
+    "index.html": "/geek-food-homepage/index.html",
+    "main.97f9b86e.css.map": "/geek-food-homepage/static/css/main.97f9b86e.css.map",
+    "main.03879472.js.map": "/geek-food-homepage/static/js/main.03879472.js.map",
+    "453.2cc0213d.chunk.js.map": "/geek-food-homepage/static/js/453.2cc0213d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97f9b86e.css",
+    "static/js/main.03879472.js"
+  ]
+}
