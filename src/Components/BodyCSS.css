@@ -1,0 +1,23 @@
+
+.BodyMain{
+    background-image: url('https://images.unsplash.com/photo-1533779283484-8ad4940aa3a8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height:87.5vh;
+}
+.BodyParent{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding-top: 7.5%;
+    padding-left: 10%;
+    color: white;
+    width: 500px;
+    align-items: center;
+}
+.BtnDiv{
+    display: flex;
+    gap: 10px;
+}
